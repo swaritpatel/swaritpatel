@@ -30,18 +30,18 @@ def MyLife(){
 }
 
 ````
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Yash Anand</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Swarit Patel</h1>
 <h3 align="center">🎓 I’m an fresher currently pursuing my Bachelors in Computer Science & Engineering. </br></h3>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/0xYashAnand" target="blank"><img align="center" src="img/linkedin.png" alt="0xYashAnand" height="40" width="40" /></a>
-<a href="https://twitter.com/0xYd" target="blank"><img align="center" src="img/twitter.png" alt="" height="40" width="40" /></a>
-<a href="https://instagram.com/0xYashAnand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xYashAnand" height="40" width="40" /></a>
-<a href="https://leetcode.com/0xYd/" target="blank"><img align="center" src="img/-your-coding-skills-and-quickly-.png" alt="0xYd" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/Yash0x" target="blank"><img align="center" src="img/codeforces.-programming-.png" alt="Yash0x" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/Yash0x" target="blank"><img align="center" src="img/icons8-codechef-240.png" alt="Yash0x" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/swarit-patel/" target="blank"><img align="center" src="img/linkedin.png" alt="swaritpatel" height="40" width="40" /></a>
+<a href="https://twitter.com/patel_swarit" target="blank"><img align="center" src="img/twitter.png" alt="" height="40" width="40" /></a>
+<a href="https://www.instagram.com/swarit_patel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xYashAnand" height="40" width="40" /></a>
+<a href="https://leetcode.com/swarit_patel/" target="blank"><img align="center" src="img/-your-coding-skills-and-quickly-.png" alt="0xYd" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/swaritpatel" target="blank"><img align="center" src="img/codeforces.-programming-.png" alt="Yash0x" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/swaritpatel" target="blank"><img align="center" src="img/icons8-codechef-240.png" alt="Yash0x" height="40" width="40" /></a>
 <br/>
   - 📫 How to reach me **swaritpatel.191@gmail.com**
 
