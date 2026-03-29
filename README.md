@@ -1,70 +1,55 @@
-### Hi there 👋
+# Hi 👋, I'm Swarit Patel
 
-<!--
-**swaritpatel/swaritpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Backend Developer | Java/Spring Boot Specialist**
 
-Here are some ideas to get you started:
+Building scalable, reliable systems at **Pine Labs** 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-````cpp
-// "𝐒𝐮𝐜𝐜𝐞𝐬𝐬 𝐢𝐬 𝐧𝐨𝐭 𝐚 𝐃𝐞𝐬𝐭𝐢𝐧𝐚𝐭𝐢𝐨𝐧, 𝐈𝐭'𝐬 𝐚 𝐉𝐨𝐮𝐫𝐧𝐞𝐲. 𝐓𝐡𝐞𝐫𝐞 𝐚𝐫𝐞 𝐧𝐨 𝐅𝐮𝐥𝐥 𝐒𝐭𝐨𝐩𝐬, 𝐨𝐧𝐥𝐲 𝐂𝐨𝐦𝐦𝐚𝐬."
+## 🎯 About Me
 
-def MyLife(){
-    contribution = 0;
-    while(DREAMS){
-        consistency = planing();
-        growth = hard_work();
-        success = evaluate(growth, consistency);
-        contribution += success;
-    }
-    return contribution;
-}
+I'm a passionate backend engineer with expertise in building high-performance, distributed systems. Currently focused on fintech solutions, payment processing, and microservices architecture. I love solving complex problems with clean, maintainable code.
 
-````
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Swarit Patel</h1>
-<h3 align="center">🎓 I’m Final year undergraduate currently pursuing my Bachelors in Computer Science & Engineering. </br></h3>
+**Current Role:** Software Engineer at Pine Labs (Mar 2025 - Present)  
+**Location:** Bengaluru, India  
+**Education:** B.Tech in Computer Science & Engineering, IIIT Nagpur (2024)
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/swarit-patel/" target="blank"><img align="center" src="img/linkedin.png" alt="swaritpatel" height="40" width="40" /></a>
-<a href="https://twitter.com/patel_swarit" target="blank"><img align="center" src="img/twitter.png" alt="" height="40" width="40" /></a>
-<a href="https://www.instagram.com/swarit_patel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xYashAnand" height="40" width="40" /></a>
-<a href="https://leetcode.com/swarit_patel/" target="blank"><img align="center" src="img/-your-coding-skills-and-quickly-.png" alt="0xYd" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/swaritpatel" target="blank"><img align="center" src="img/codeforces.-programming-.png" alt="Yash0x" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/swaritpatel" target="blank"><img align="center" src="img/icons8-codechef-240.png" alt="Yash0x" height="40" width="40" /></a>
-<br/>
-  - 📫 How to reach me **swaritpatel.191@gmail.com**
+## 💼 What I'm Working On
 
+- Building **EMI calculation APIs** for offline POS transactions
+- Designing scalable **fintech integrations** handling 20M+ users
+- Implementing **microservices architecture** with Spring Boot & Kafka
+- Optimizing **Rule Engines** and database performance
 
-### About Myself 💻
-👨‍💻  I am interested in Web Development, BlockChain & Competitive Programming. Apart from that, I am curious about learning new things. </br>
+---
 
-### Technical Skills 📖
-- Languages: JavaScript, C/C++, HTML, CSS.
-- Frameworks/Libraries: NodeJs
-- Platforms/Studios: Android Studio
-- Technologies: Web Development, UI/UX Designing. </br>
+## 🛠️ Tech Stack
 
+**Languages:** Java • C/C++ • Python • JavaScript  
+**Frameworks & Tools:** Spring Boot • Hibernate • Kafka • Drools  
+**Databases:** MongoDB • PostgreSQL • Redis • MySQL  
+**DevOps & Tools:** Jenkins • Elasticsearch • Kibana • Docker • Git  
+**Platforms:** REST APIs • Microservices • AWS • Linux
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaritpatel&show_icons=true&locale=en&layout=compact" alt="swaritpatel" /></p>
-<br />
+---
 
-![Swarit's github stats](https://github-readme-stats.vercel.app/api?username=swaritpatel&show_icons=true&hide_border=true)
-<br/>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=swaritpatel.swaritpatel)
+## 🔗 Connect With Me
 
-<!---
-swaritpatel/swaritpatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarit-patel/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaritpatel.191@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/swarit_patel/)
+[![CodeForces](https://img.shields.io/badge/Codeforces-1F1C3F?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/swaritpatel)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4E3E?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/swaritpatel)
 
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=swaritpatel&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=swaritpatel&layout=compact&theme=tokyonight)
+
+---
+
+**⚡ Fun fact:** I believe in consistency over perfection. Small steps, big results.
