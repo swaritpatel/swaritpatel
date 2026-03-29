@@ -1,6 +1,6 @@
 # Hi 👋, I'm Swarit Patel
 
-**Software Engineer | Backend Developer | Java/Spring Boot Specialist**
+**Software Engineer | Backend Developer | Java/Spring Boot, C/C++, C#
 
 Building scalable, reliable systems at **Pine Labs** 🚀
 
